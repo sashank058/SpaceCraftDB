@@ -1,4 +1,4 @@
-# spacecraftDB
+# SpaceCraftDB
 Implemented the linked lists Data structure for solving a Database about Planets and Stars, distinguished planets and stars on the basis of their frequency and black body radiation. 
 
 
